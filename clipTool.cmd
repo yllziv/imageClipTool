@@ -1,0 +1,1 @@
+"%~dp0python.exe" "%~dp0main.py"
